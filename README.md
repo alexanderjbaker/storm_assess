@@ -18,7 +18,7 @@ Baker, A. J., Roberts, M. J., Vidale, P. L., Hodges, K. I., J., Seddon, J., Vann
 
 #### The `storm()` class
 
-Each `storm` instance contains attributes that describe the location and additional fields (i.e., wind speed, central pressure etc) for each track.
+Each `storm` instance contains attributes that describe track location and storm-local fields (i.e., wind speed, central pressure etc) for each track.
 
 For example:
 

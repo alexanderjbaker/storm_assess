@@ -8,6 +8,13 @@ A Python package for reading and manipulating cyclone track data.
 
 The package is available on JASMIN at: `/gws/nopw/j04/huracan/tools/python/storm_assess/`. A version of `storm_assess`, developed by Malcolm Roberts (Met Office), was developed for reading NetCDF-format track output data (from HighResMIP), which is available [here](https://github.com/PRIMAVERA-H2020/HighResMIP-storm_reader).
 
+#### Publications
+
+The following peer-reviewed publications use this repo's version of `storm_assess`:
+
+Baker, A. J., Vannière, B., and Vidale, P. L. [On the realism of tropical cyclones simulated in global storm-resolving climate models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109841). *Geophysical Research Letters* 51, e2024GL109841 (2024).
+
+Baker, A. J., Roberts, M. J., Vidale, P. L., Hodges, K. I., J., Seddon, J., Vannière, B., Haarsma, R. J., Schiemann, R., Kapetanakis, D., Tourigny, E., Lohmann, K., Roberts, C. D., and Terray, L. [Extratropical transition of tropical cyclones in a multiresolution ensemble of atmosphere-only and fully coupled global climate models](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0801.1/JCLI-D-21-0801.1.xml). *Journal of Climate* 35, 5283–5306 (2022).
 
 #### The `storm()` class
 

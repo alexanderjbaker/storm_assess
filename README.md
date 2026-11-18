@@ -6,7 +6,7 @@ A Python package for reading and manipulating cyclone track data.
 
 `storm_assess` is a Python module to read ascii-format output from the *TRACK* and *TempestExtremes* cyclone-tracking algorithms, originally developed by Joanne Camp (Met Office & Bureau of Meteorology). This package has been used in recent publications, but [HuracanPy](https://huracanpy.readthedocs.io/en/stable/) is now recommended for analysis of feature-tracking data.  
 
-The package is available on JASMIN at: `/gws/nopw/j04/huracan/tools/python/storm_assess/`. A version of `storm_assess`, developed by Malcolm Roberts (Met Office), was developed for reading NetCDF-format track output data (from HighResMIP), which is available [here](https://github.com/PRIMAVERA-H2020/HighResMIP-storm_reader).
+The package is available on JASMIN at: `/gws/nopw/j04/huracan/tools/python/storm_assess/`. A version of `storm_assess` was developed developed by Malcolm Roberts (Met Office), for reading NetCDF-format track output data (e.g., from CMIP6-HighResMIP), which is available [here](https://github.com/PRIMAVERA-H2020/HighResMIP-storm_reader).
 
 #### Publications
 
